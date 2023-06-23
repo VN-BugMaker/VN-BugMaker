@@ -5,5 +5,3 @@
 ![VN-BugMaker's Stats](https://github-readme-stats.vercel.app/api?username=VN-BugMaker&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ![VN-BugMaker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VN-BugMaker&theme=default&hide_border=true)
-
-![VN-BugMaker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VN-BugMaker&theme=default&show_icons=true&hide_border=true&layout=compact)
