@@ -1,3 +1,13 @@
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm VN-BugMaker<br>
+        Currently learning to walk in React/React Native without falling on my bottom.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i>
+</p>
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
