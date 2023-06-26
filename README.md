@@ -30,12 +30,28 @@
 
 
 ### GitHub Stats:
-![VN-BugMaker's Stats](https://github-readme-stats.vercel.app/api?username=VN-BugMaker&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-![VN-BugMaker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VN-BugMaker&theme=default&hide_border=true)
+<p align="center">
+  <a href="https://github.com/VN-BugMaker">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VN-BugMaker&theme=transparent" />
+  </a>
+  <br/>
+  <a href="https://github.com/VN-BugMaker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VN-BugMaker&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+    <br/>
+  <a href="https://github.com/VN-BugMaker">
+    <img src="https://github-readme-stats.vercel.app/api?username=VN-BugMaker&show_icons=true&bg_color=00000000" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/VN-BugMaker">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VN-BugMaker" />
+  </a>
+</p>
 
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VN-BugMaker&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=VN-BugMaker&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/VN-BugMaker">
+    <img src="https://komarev.com/ghpvc/?username=VN-BugMaker&style=for-the-badge" />
+  </a>
+</p>
